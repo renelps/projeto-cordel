@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-image: url(../imagens/background001.jpg);
+    background-position: right center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header h1{
+    font-size: 70px;
+}
+
+main {
+    width: 1200px;
+    margin: auto;
+    
+
+}
+
+main p {
+    font-size: 30px;
+    /* width: 800px; */
+    line-height: 70px;
+}
+section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 2em;
+    padding-left: 35px;
+    font-family: var(--fonte3);
+    font-size: 3.5em;
+}
+
+footer {
+    width: 1200px;
+    padding: 20px;
+    font-size: 1.5em;
+    margin: auto;
+}
