@@ -2,10 +2,11 @@ html, body {
     height: 100%;
 }
 body {
-    background-image: url(../imagens/background001.jpg);
+    background-color: gray;
+    /* background-image: url(../imagens/background001.jpg);
     background-position: right center;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: cover; */
 }
 header h1{
     font-size: 70px;
@@ -19,9 +20,9 @@ main {
 }
 
 main p {
-    font-size: 30px;
+    font-size: 20px;
     /* width: 800px; */
-    line-height: 70px;
+    line-height: 50px;
 }
 section {
     padding-top: 10px;
